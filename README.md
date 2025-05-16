@@ -1,5 +1,5 @@
-## Hi, I'm Bryan James, and I'm passionate about programming. 
-##That is the github profiles that i lose: @BryandevBr && @BryandevBr22
+Hi, I'm Bryan James, and I'm passionate about programming. 
+## That is the github profiles that i lose: @BryandevBr && @BryandevBr22
 <div style="display: inline_block"><br>
     <img align="center" alt="Bryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Bryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
