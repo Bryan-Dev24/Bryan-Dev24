@@ -1,10 +1,10 @@
-# 👨‍💻 Bryan-Dev24
+# Bryan-Dev24
 
 Welcome to my GitHub! I'm a passionate developer who loves to build creative solutions, from sci-fi inspired mobile experiences to robust back-end systems. Here’s a visual metaphorical story of my developer journey and stack.
 
 ---
 
-## 🚀 My Developer Journey (Visual Storytelling)
+## My Developer Journey (Visual Storytelling)
 
 ### 1. JavaScript Developer at Work
 
