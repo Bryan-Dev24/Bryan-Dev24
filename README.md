@@ -1,27 +1,21 @@
-# Bryan-Dev24
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-Welcome to my GitHub! I'm a passionate developer who loves to build creative solutions, from sci-fi inspired mobile experiences to robust back-end systems.
+<hr>
 
----
+## Sobre mim
 
-## My Developer Journey
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/bryan-james-paiva/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paivabryan_/)
+[![Second Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.da.etec/)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
-![Figma](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=figma)
 
----
+----
 
-## Contact
-
-![LinkedIn](https://www.linkedin.com/in/bryan-james-paiva/).
-
- ![Instagram](https://www.https://www.instagram.com/dev.da.etec)
-
- /* - ![Portfolio](https://your-portfolio.com). */
-
----
+## Sobre Meu GitHub
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wendelmax&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wendelmax&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wendelmax&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wendelmax&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wendelmax&theme=tokyonight&utcOffset=8)
