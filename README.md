@@ -8,14 +8,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/bryan-james-paiva/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paivabryan_/)
-[![Second Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.da.etec/)
 
 
 ----
 
 ## Sobre Meu GitHub
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wendelmax&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wendelmax&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wendelmax&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wendelmax&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wendelmax&theme=tokyonight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bryan-Dev24&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bryan-Dev24&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bryan-Dev24&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bryan-Dev24&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bryan-Dev24&theme=tokyonight&utcOffset=8)
