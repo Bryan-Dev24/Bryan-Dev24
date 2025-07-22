@@ -21,12 +21,11 @@
 
   ## Sobre Meu GitHub
 
-  <div>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bryan-Dev24&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bryan-Dev24&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bryan-Dev24&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bryan-Dev24&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bryan-Dev24&theme=tokyonight&utcOffset=8)</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bryan-Dev24&theme=tokyonight&utcOffset=8)
 
  </body>
 </html>
