@@ -21,11 +21,11 @@
 
   ## Sobre Meu GitHub
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bryan-Dev24&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bryan-Dev24&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bryan-Dev24&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bryan-Dev24&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bryan-Dev24&theme=merko&&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bryan-Dev24&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bryan-Dev24&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bryan-Dev24&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bryan-Dev24&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bryan-Dev24&theme=radical&&utcOffset=3)
 
  </body>
 </html>
